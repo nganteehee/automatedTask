@@ -1,0 +1,47 @@
+[
+  {
+    "title": "",
+    "meta_description": "",
+    "headings": {},
+    "links": [],
+    "images": [],
+    "text_content": "",
+    "custom": {
+      "paragraphs": [],
+      "divs": [
+        "",
+        ""
+      ]
+    },
+    "url": "https://shopeefood.vn/ho-chi-minh/food",
+    "scraped_at": "2025-06-01 17:49:01"
+  },
+  {
+    "title": "Example Domain",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "Example Domain"
+      ]
+    },
+    "links": [
+      {
+        "text": "More information...",
+        "url": "https://www.iana.org/domains/example"
+      }
+    ],
+    "images": [],
+    "text_content": "Example Domain\n\n\n\n\n\n\n\nExample Domain\nThis domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.\nMore information...",
+    "custom": {
+      "paragraphs": [
+        "This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.",
+        "More information..."
+      ],
+      "divs": [
+        "Example Domain\nThis domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.\nMore information..."
+      ]
+    },
+    "url": "https://example.com",
+    "scraped_at": "2025-06-01 17:49:05"
+  }
+]
